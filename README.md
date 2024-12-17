@@ -2,6 +2,13 @@
 
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - ⚡e * 11 in username
+  
+</br>
+
+## 📕 Education
+- '24. 7. 2. ~ 삼성 청년 SW 아카데미 12기(SSAFY)
+
+</br>
 
 ## 🛠️ Language & Framework
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
