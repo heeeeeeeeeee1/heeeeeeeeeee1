@@ -1,6 +1,5 @@
 ## My cats
 <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/phw118" width="600" height="300"/></a>
-<a href="https://www.solve-nyang.com"><img src="http://54.180.123.67:8080/compose/phw118" width="600" height="300"/></a>
 </br>
 [솔브냥-알고리즘 풀고 나만의 고양이 키우기](https://www.solve-nyang.com/)
 
