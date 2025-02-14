@@ -1,15 +1,8 @@
-<div align="center">
+## My cats | [솔브냥-알고리즘 풀고 나만의 고양이 키우기](https://www.solve-nyang.com/)
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/phw118" width="600" height="300"/></a>
   
-  ## My cats
-
-  <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/phw118" width="600" height="300"/></a>
+</br>
   
-  </br>
-  
-  [솔브냥-알고리즘 풀고 나만의 고양이 키우기](https://www.solve-nyang.com/)
-  
-</div>
-
 </br>
 
 ## Hi there 👋
