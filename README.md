@@ -8,7 +8,7 @@
 </br>
 
 ## Hi there 👋  
-- ⚡e * 11 in username
+⚡e * 11 in username
 
 </br>
 
